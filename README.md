@@ -1,0 +1,4 @@
+HackRPI
+=======
+
+Our hackathon project
